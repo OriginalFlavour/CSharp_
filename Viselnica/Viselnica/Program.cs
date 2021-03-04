@@ -48,7 +48,7 @@ namespace Viselnica
         {
             Console.Clear();
             Console.WriteLine(_WritedWord);
-            Console.WriteLine("Score Try = " + _AmountOfTries);
+            Console.WriteLine("_AmountOfTries = " + _AmountOfTries);
         }
         public static void SetWord()
         {
