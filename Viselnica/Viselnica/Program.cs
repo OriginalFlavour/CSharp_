@@ -48,7 +48,7 @@ namespace Viselnica
         {
             Console.Clear();
             Console.WriteLine(_WritedWord);
-            Console.WriteLine("_AmountOfTries = " + _AmountOfTries);
+            Console.WriteLine("Amount of tries = " + _AmountOfTries);
         }
         public static void SetWord()
         {
